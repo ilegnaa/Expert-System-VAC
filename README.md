@@ -21,6 +21,6 @@ In the expert system the inference engine can be considered as the heart of the 
 this component of the system helps the system to gain more knowledge about the domain from various sources and store the information in the knowledge base.
 # User interface and explanation module: 
 it is a combination of two components where the user interface helps the user to ask queries and the explanation module gives the solution to the user in an explanatory way so that the user can conclude in an easy manner. 
-The below image is a representation of the workflow diagram of any basic Expert System. 
+# The below image is a representation of the workflow diagram of any basic Expert System. 
 ![image](https://user-images.githubusercontent.com/108733602/194566348-300c3498-2e04-4f82-b109-dffca45ea632.png)
 
